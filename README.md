@@ -2,4 +2,5 @@
 university group project
 
 This is my university group project. 
-My contribut on this project HTML, CSS and little bit of javascript.
+My contribution on this project to create html structure and styling it with css 
+and also write some javascript code.
