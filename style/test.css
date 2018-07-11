@@ -1,0 +1,33 @@
+.container {
+  max-width: 800px;
+  margin: auto; }
+
+.book-title {
+  padding: 20px;
+}
+
+.book-title span {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.book-details {
+  display: flex;
+  max-width: 800px;
+  margin: 20px 0;
+
+}
+
+.book-details-left {
+  margin-right: 20px;
+}
+
+.book-details-left > div {
+  width: 285px;
+  height: 200px;
+
+}
+
+.book-details-right {
+  max-width: 500px;
+}
